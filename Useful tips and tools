@@ -1,0 +1,9 @@
+#=============Linking a local file to dropbox================
+
+# Step 1: open command prompt as administrator
+# step 2: type: mklink d/ "'path to dropbox'\linked" "path to folder you wish to link"
+# step 3: press enter and folder should now be linked in dropbox under the folder named "linked"
+
+
+
+#.................
